@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "865912262206",
+    "project_id": "bus-on-the-way-68db6",
+    "storage_bucket": "bus-on-the-way-68db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865912262206:android:4b647f09585b4b7350cb6f",
+        "android_client_info": {
+          "package_name": "com.stark.bus_on_the_way"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865912262206-infaor35u5ekoec29g799ep6t8s78088.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvvre1z9sms4N8_FJgN8tMhc1k-vwudk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865912262206-infaor35u5ekoec29g799ep6t8s78088.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865912262206:android:4b647f09585b4b7350cb6f",
+        "android_client_info": {
+          "package_name": "com.stark.bus_on_the_way"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865912262206-infaor35u5ekoec29g799ep6t8s78088.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvvre1z9sms4N8_FJgN8tMhc1k-vwudk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865912262206-infaor35u5ekoec29g799ep6t8s78088.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
