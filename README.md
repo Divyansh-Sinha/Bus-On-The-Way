@@ -41,7 +41,7 @@ The app has an authentication feature for the Driver and students and each have 
 #### Live Location Tracking
 
 
->> for getting the real-time location of the bus we are using firebse api for storing the longitude and latitiude of the bus driver's phone and we are making request to the firebase for accessing the location(langitiude and latitude) data and showing the location of the bus using google map api.
+>> For getting the real-time location of the bus we are using firebase api for storing the longitude and latitude of the bus driver's phone and we are making request to the firebase for accessing the location(longitude and latitude) data and showing the location of the bus using google map api.
 
 
 # Screenshots
