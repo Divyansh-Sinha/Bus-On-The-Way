@@ -27,10 +27,8 @@ The app has an authentication feature for the Driver and students and each have 
 ## Tech Stack Used
 <br>
 -> Google Firebase - for broadcasting message
-<br>
--> PHP             - for creating user login and regIstration API
-<br>
--> MySql           - for creating the database of users
+                   - for creating user login and regIstration API
+                   - for creating the database of users
 <br>
 
 ## How it works
