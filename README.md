@@ -35,7 +35,7 @@ The app has an authentication feature for the Driver and students and each have 
 
 #### Authentication and Registration
 
-  >>  we are using firebase for authentication and varification and storing the location of bus. 
+  >>  we are using firebase for authentication and verification and storing the location of bus. 
 <br>
 
 #### Live Location Tracking
